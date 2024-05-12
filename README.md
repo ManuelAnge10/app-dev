@@ -5,7 +5,7 @@ My first repository
 **Pokemon Series**
 
 *Summary*
-It's about a 10 year old boy named Ash Kethum with his trusted partner pikachu to become a pokemon master, while also
+It's about a 10 year old boy named Ash Ketchum with his trusted partner pikachu to become a pokemon master, while also
 meeting friends along his way, and new pokemon on his team, Also being chase down by a group of people called
 team Rocket named jessie and james with there own trusted partner meowth in order to catch pikachu but they keep failing
 over and over again.

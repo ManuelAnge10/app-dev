@@ -11,7 +11,7 @@ team Rocket named jessie and james with there own trusted partner meowth in orde
 over and over again.
 
 ## Character
-**Main Protagnist:** Ash Kethum
+**Main Protagnist:** Ash Ketchum
 
 **Companions**
 Misty, Brock, Tracey, May, Max, Dawn, Iris, Cilan, Clement, Bonnie, Serena, Lana, Mallow, Kiawe, Sophecles, Lillie, Goh
